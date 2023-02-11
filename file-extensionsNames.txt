@@ -3205,4 +3205,4 @@
 'Art Library Image',
 'Adobe Text Format',
 'Business Data Model File',
-'Baraha Hex Input Document',
+'Baraha Hex Input Document'
